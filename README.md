@@ -1,7 +1,8 @@
 ### Setting up flask
 ```
-python3 -m pip install flask
-export FLASK_APP=app.py
+pip install flask
+Linux: export FLASK_APP=app.py
+Windows: set FLASK_APP=app.py
 flask run
 ```
 ### /stocks
